@@ -3,3 +3,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(205, 204, 203);
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1, ul {
+    text-align: center;
+}
+
